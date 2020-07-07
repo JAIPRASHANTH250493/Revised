@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="19162" started-at="2020-07-07T10:17:34 IST" finished-at="2020-07-07T10:17:53 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="19162" started-at="2020-07-07T10:17:34 IST" finished-at="2020-07-07T10:17:53 IST">
+      <class name="SeleniumRevised.javascriptmethods">
+        <test-method status="PASS" signature="flashing()[pri:0, instance:SeleniumRevised.javascriptmethods@6acdbdf5]" name="flashing" duration-ms="19100" started-at="2020-07-07T10:17:34 IST" finished-at="2020-07-07T10:17:53 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- flashing -->
+      </class> <!-- SeleniumRevised.javascriptmethods -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
