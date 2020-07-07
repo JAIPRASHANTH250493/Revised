@@ -28,6 +28,9 @@ public class Alert {
 		String s=	driver.switchTo().alert().getText();
 
 		System.out.println(s);
+		
+				System.out.println(s);//-------->secondcommit in github
+
 		driver.close();
 
 
