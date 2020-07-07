@@ -3,11 +3,11 @@
 <suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="SeleniumRevised.FileUpload">
+      <class name="SeleniumRevised.Log4j">
         <methods>
-          <include name="btestleaf2"/>
+          <include name="method2"/>
         </methods>
-      </class> <!-- SeleniumRevised.FileUpload -->
+      </class> <!-- SeleniumRevised.Log4j -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
