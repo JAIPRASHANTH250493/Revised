@@ -39,13 +39,7 @@ public class FileUpload {
 	@Test
 	public static void btestleaf2() throws AWTException {
 
-		System.setProperty("webdriver.chrome.driver","C:\\Users\\New\\Desktop\\chromedriver.exe");
-		WebDriver driver=new ChromeDriver();
-		driver.manage().timeouts().implicitlyWait(30, TimeUnit.SECONDS);
-		driver.manage().timeouts().pageLoadTimeout(30, TimeUnit.SECONDS);
-		driver.manage().window().maximize();
-		driver.manage().deleteAllCookies();
-		driver.get("http://www.leafground.com/pages/upload.html");
+		
 		String f="C:\\Users\\New\\Desktop\\MANUAL TESTING\\my test.xlsx";
 
 		StringSelection st=new StringSelection(f);
