@@ -31,6 +31,8 @@ public class Login_page extends Parent_class {
 	public void passwordMethods(String pass) {
 		//password.sendKeys(pass);
 		//driver.findElement(By.id("login:passwordDecorate:password")).sendKeys(pass);
+		
+	//drivermanager
 	}
 	
 	public void Signin() {
